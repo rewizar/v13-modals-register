@@ -1,5 +1,5 @@
 # v13-modal-register
-v13 discord modal register
+v13 Discord gelişmis register botu, modal sistemi ile oluşturulmuştur.
 
 
 # SELAM DOSTLAR STARLAAMAYI UNUTMAYIN
