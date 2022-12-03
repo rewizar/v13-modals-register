@@ -1,0 +1,20 @@
+{
+  "name": "cemasltmodalregister",
+  "version": "1.0.0",
+  "description": "Discord Modal Register Altyapısı cemaslt was here",
+  "main": "cemaslt.js",
+  "scripts": {
+    "test": "node cemaslt.js"
+  },
+  "author": "cemaslt#3455",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.4.0",
+    "discord.js": "^13.12.0",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "quick.db": "^9.0.6"
+  }
+}
