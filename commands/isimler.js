@@ -1,5 +1,6 @@
 const Discord = require('discord.js')
 const settngs = require('../config.json');
+const db = require('quick.db')
 
 exports.run = async (client, message, args) => {
     if (!message.member.roles.cache.has(settngs['rol-kanal'].kayıtSorumlusu) && !message.member.roles.cache.has(settngs['rol-kanal'].TümYetkilerAçık)) return;    
