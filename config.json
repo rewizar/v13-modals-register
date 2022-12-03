@@ -1,27 +1,27 @@
 {
 
     "bot":{
-        "botPrefix": ".",
-        "botToken": "MTA0MjE1MDE3ODIzMDExMjM1OA.GLGn6r.AkU01CVnRVCMn9ggOlOoIcC_AOJhPyFRN4HyUU",
+        "botPrefix": "",
+        "botToken": "",
         "botFooter": "cemaslt was here",
         "botOwner": "477902114132066306",
         "botStatus": "CEMASLT",
-        "GuildİD": "1044612030222581770"
+        "GuildİD": ""
 
     },
     "rol-kanal": {
 
-        "TümYetkilerAçık": "1044664621811892305",
+        "TümYetkilerAçık": "",
 
-        "kayıtSorumlusu": "1045034309477744681",
-        "kayıtChat": "1044667101211807775",
+        "kayıtSorumlusu": "",
+        "kayıtChat": "",
 
-        "kayıtsızRole": "1044666800807358587",
+        "kayıtsızRole": "",
 
-        "erkek1": "1044663492092891186",
-        "erkek2": "1044663492092891186",
-        "kadın1": "1044663492092891186",
-        "kadın2": "1044663492092891186"
+        "erkek1": "",
+        "erkek2": "",
+        "kadın1": "",
+        "kadın2": ""
 
     },
     "other": {
